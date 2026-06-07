@@ -4,8 +4,6 @@
 
 Live situational awareness with an interactive world map, heatmaps, critical alerts, and geopolitical events.
 
-# WorldAlert Dashboard
-
 ---
 
 ## What It Is
